@@ -34,7 +34,8 @@ Strengthen marketing and inventory management for top-selling products.
 6.Conclusion:
 In conclusion, while the business demonstrates steady growth and strong sales performance, optimizing delivery efficiency, order fulfillment, and customer engagement will be critical in sustaining long-term success. By focusing on logistics improvements, market expansion, and customer experience enhancements, the company can strengthen its competitive position and continue its upward trajectory in the e-commerce space.
 
-7.Screenshot
+7.Screenshots
+Tableau Dashboard: [https://github.com/SavitaSangsetti/E-Commerce-Analytics/blob/main/Snapshot%20of%20Tableau%20Dashboard.jpg]
 
 
 
